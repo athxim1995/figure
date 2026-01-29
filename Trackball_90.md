@@ -1,7 +1,7 @@
 ---
 author: "Xyma Athanasia 1022257"
 title: "Trackball (90s)"
-image_url: "trackball.jpg"
+image_url: /images/trackball90s.jpg
 caption: >
   Η ιχνοσφαίρα (trackball) είναι μια σημαντική συσκευή εισόδου/δείκτη και
   προέκυψε από τις ανάγκες της στρατιωτικής και ραντάρ τεχνολογίας.
