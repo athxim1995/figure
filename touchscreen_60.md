@@ -1,7 +1,7 @@
 ---
 author: "Xyma Athanasia 1022257"
 title: "Touchscreen (60s)"
-image_url: "touchscreen60s.jpg"
+image_url: /images/touchscreen60s.jpg
 caption: >
   Η τεχνολογία της οθόνης αφής (touchscreen) έχει μια μακρά και ενδιαφέρουσα
   ιστορική διαδρομή. Οι πρώτες ιδέες εμφανίστηκαν τη δεκαετία του 1960, όταν
